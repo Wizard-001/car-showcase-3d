@@ -65,6 +65,17 @@ To run this project locally, follow these steps:
 
 ---
 
+## 🚀 Deployment
+
+The fastest way to deploy this project is using **Vercel**:
+
+1.  Push your code to GitHub.
+2.  Go to [Vercel](https://vercel.com/new).
+3.  Import the `car-showcase-3d` repository.
+4.  Vercel will automatically detect Vite and deploy your site!
+
+---
+
 ## 📂 Project Structure
 
 ```text
